@@ -1,2 +1,2 @@
-# Bit-cora-Simulaci-n-de-sistemas-EGH
+# Bitacora-Simulacion-de-sistemas-EGH
 Bitácora
