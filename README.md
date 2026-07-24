@@ -29,7 +29,8 @@ Ajuste de ciclo de vida de los exploradores y numero de exploradores por tipo de
 
 finalmente modifiqué la interacción ya que era más dibujar directamente que modificar reglas, la IA sugirió terreno fertil que atrajera a los exploradores, pero pensé que seria mejor que ese terreno fertil aumentara la velocidad de expansión y la probabilidad de que el explorador que pasa termine estableciendo un asentamiento.
 
-<img width="496" height="840" alt="image" src="https://github.com/user-attachments/assets/84bf9874-f05d-4cdc-b36b-a3b9448ae958" />
+<img width="485" height="839" alt="image" src="https://github.com/user-attachments/assets/8ccec2d0-8b09-43fc-b00d-feb162965464" />
+
 
 
 
