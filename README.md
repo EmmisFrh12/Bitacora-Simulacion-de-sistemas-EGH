@@ -5,6 +5,8 @@ Reto de diseño 1
 
 https://editor.p5js.org/EmmisFrh12/full/xBItt387N
 
+Encuentro de geografias de América latina y el Caribe EGALC
+
 Crecimiento social
 Se busca mostrar como las incertidubres influyen en la creación de sociedades mediante caminatas aleatorias, distribuciones probabilísticas y comportamientos influenciados por el usuario, los exploradores generan caminos y nuevos asentamientos que evolucionan de manera impredecible pero bajo ciertas reglas, creando diferentes tipos de asentamientos.
 
@@ -31,12 +33,18 @@ finalmente modifiqué la interacción ya que era más dibujar directamente que m
 
 <img width="485" height="839" alt="image" src="https://github.com/user-attachments/assets/8ccec2d0-8b09-43fc-b00d-feb162965464" />
 
-Criterio	Cumplo	No cumplo	Evidencia
+Criterio	Cumplo	No cumplo	
+
 Encargo completo: interpreto los cinco momentos dentro de un mismo sistema visual.	✓ 	☐	
+
 Simulación con intención: utilizo al menos tres conceptos de la unidad para comunicar las ideas del encargo.	✓ 	☐	
+
 Interacción significativa: la interacción modifica el comportamiento o las probabilidades del sistema, que también funciona sin intervención.	✓	☐	
+
 Prototipo funcional: la experiencia puede ejecutarse y recorrerse completa sin errores que impidan comprenderla.	✓ 	☐	
+
 Proceso documentado: la bitácora evidencia avances, decisiones, dificultades, soluciones, uso de IA y enlace al prototipo.	✓ 	☐
 
+5
 
 
