@@ -15,7 +15,7 @@ Empecé pensando en un mapa de lineas de metro, rapidamente descarté el metro y
 
 <img width="675" height="529" alt="Captura de pantalla 2026-07-24 020500" src="https://github.com/user-attachments/assets/21d6078f-0288-4026-ba75-47635fe2182f" />
 
-Luego decidí que los exploradores deberian nacer de asentamientos, asi que al ejecutar el código se generaria un asntamiento y de ahí saldrian los exploradores, tambien el usuario podria hacer click para generar un asentmaiento
+Luego decidí que los exploradores deberian nacer de asentamientos, asi que al ejecutar el código se generaria un asentamiento y de ahí saldrian los exploradores, tambien el usuario podria hacer click para generar un asentmaiento
 
 <img width="802" height="662" alt="image" src="https://github.com/user-attachments/assets/df98713c-7b78-4c71-9e02-8f68cd3f5f47" />
 
@@ -27,7 +27,7 @@ Ajuste de ciclo de vida de los exploradores y numero de exploradores por tipo de
 
 <img width="750" height="524" alt="image" src="https://github.com/user-attachments/assets/4393a0cc-f5da-4b69-86ca-023c3032adbb" />
 
-finalmente modifiqué la interacción ya que era más dibujar directamente que modificar reglas, la ia sugirió terreno fertil que atrajera a los exploradores, pero pensé que seria mejor que ese terreno fertil aumentara la velocidad de expansión y la probabilidad de que el explorador que pasa termine estableciendo un asentamiento.
+finalmente modifiqué la interacción ya que era más dibujar directamente que modificar reglas, la IA sugirió terreno fertil que atrajera a los exploradores, pero pensé que seria mejor que ese terreno fertil aumentara la velocidad de expansión y la probabilidad de que el explorador que pasa termine estableciendo un asentamiento.
 
 <img width="496" height="840" alt="image" src="https://github.com/user-attachments/assets/84bf9874-f05d-4cdc-b36b-a3b9448ae958" />
 
