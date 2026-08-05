@@ -31,3 +31,19 @@ Proceso
 Empecé con la generación de código solo para los líderes y la población
 
 <img width="924" height="774" alt="Captura de pantalla 2026-08-05 021111" src="https://github.com/user-attachments/assets/c65548d8-0592-4932-bee6-8c3d702679de" />
+
+tuve problemas de optimización al intentar crear lazos entre población por lo que terminé descartando la idea
+
+<img width="1859" height="839" alt="Captura de pantalla 2026-08-05 012824" src="https://github.com/user-attachments/assets/01d6be8d-b13b-4a71-82d1-f7a598316638" />
+
+luego se añadieron los predadores y se ajustaron la atracción y repulsión de los líderes y población
+
+<img width="914" height="772" alt="Captura de pantalla 2026-08-03 234514" src="https://github.com/user-attachments/assets/ab1b6e52-f17f-4036-880b-c9508445a471" />
+
+añadí la matriz con interactividad para que diera un pequeño elemento de experimentación
+
+<img width="953" height="797" alt="Captura de pantalla 2026-08-04 132636" src="https://github.com/user-attachments/assets/e6905b8e-f1ef-4705-8145-96d57e3e99b6" />
+
+
+
+
