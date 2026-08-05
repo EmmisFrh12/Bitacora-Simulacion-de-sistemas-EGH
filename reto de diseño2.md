@@ -7,8 +7,8 @@ Espero que el sistema manifieste ciclos continuos donde las poblaciones Represen
 formando Sociedaes estables que parecen proliferar, hasta que la llegada de una población predadora como saqueadores representados por las particulas rojas rompa la cohesión desde dentro,
 obligando a la estructura a fragmentarse caóticamente hasta colapsar, para luego reiniciar el ciclo de reconstrucción o asimilación en otra sociedad adyacente.
 
-quise tener una población de 400 para que hubiese una abundancia de población y proliferacion de sociedades grandes y pequeñas, 30 líderes pocos a comparación de la población para que la población no se disperse
-mucho pero suficientes para que no se haga solo una sociedad y 60 predadores para que no abrumen al completo a las sociedades si no que apenas suficientes para quebrarlas y obligarlas a reorganizarse
+quise tener una población de 840 para que hubiese una abundancia de población y proliferacion de sociedades grandes y pequeñas, 144 líderes pocos a comparación de la población para que la población no se disperse
+mucho pero suficientes para que no se haga solo una sociedad y 216 predadores para que no abrumen al completo a las sociedades si no que apenas suficientes para quebrarlas y obligarlas a reorganizarse
 
 una atracción media entre la población, para simbolizar la necesidad de sociedad
 una alta atracción de la población al nucleo para hacer visible como los líderes comandan y organizan la población
