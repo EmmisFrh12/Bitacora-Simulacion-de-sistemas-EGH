@@ -1,5 +1,7 @@
 Reto de diseño 2
 
+https://editor.p5js.org/EmmisFrh12/full/NPz4EtWyB
+
 Tensión. 
 Quiero explorar la tensión entre proliferación de civilizaciones y la disrupción predatoria que genera dispersión.
 
@@ -44,6 +46,18 @@ añadí la matriz con interactividad para que diera un pequeño elemento de expe
 
 <img width="953" height="797" alt="Captura de pantalla 2026-08-04 132636" src="https://github.com/user-attachments/assets/e6905b8e-f1ef-4705-8145-96d57e3e99b6" />
 
+toques finales de ui y escenarios alternos
 
+<img width="888" height="793" alt="image" src="https://github.com/user-attachments/assets/e00e139f-7215-417e-8514-e7872c3e8510" />
+
+
+Criterio	Peso	Valoración	Aporte
+La intención es clara y perceptible en el comportamiento.	20%		                        5
+Los tipos, cantidades, matriz y parámetros están justificados desde la intención.	25%		5
+Comprendo y puedo modificar el funcionamiento técnico del sistema.	20%		              5
+El sistema produce variaciones con una identidad reconocible.	15%		                    5
+Experimenté, comparé, seleccioné y descarté con criterios claros.	10%		                5
+Puedo distinguir y sustentar lo diseñado y lo emergente.	10%		                        5
+Total	100%	                                                                            5
 
 
