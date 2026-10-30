@@ -1,12 +1,34 @@
 Why bother?
 
-Creo que lo más importante es el increíble deseo que tiene el ser humano para crear, hacer algo propio de lo que estar orgulloso.
+https://emmisfrh12.github.io/Creaci-n/
 
+¿Cómo interpretaste la pregunta Why Bother?
+
+la interpreto no como una preguntas pesimista, creo que no está preguntando que es lo que nos motiva a seguir, Creo que lo más importante es el increíble 
+deseo que tiene el ser humano para crear, hacer algo propio de lo que estar orgulloso.
+
+¿Cómo lo exploraste?
 Quería evidenciar esto con una pequeña experiencia, similar a la tipográfica, donde el usuario es quien le da forma a su vivencia; lo invito a crear,
-a dar su visión mediante plastilina, y lo contrasto con un elemento de generación automática con el motivo de mostrarle a la gente cómo, incluso aunque 
-puedan obtener algo inmediato, no sería tan satisfactorio el guardarlo y presumirlo como propio (no es su propia visión). Ahora, esto genera la posibilidad 
-de tomar lo generado y darle una transformación, darle una visión propia a algo meramente aleatorio, y creo que puede llegar a ser algo muy valioso en este 
+a dar su visión mediante plastilina.
+
+¿Qué encontraste?
+
+Al contrastarlo con un elemento de generación automática con el motivo de mostrarle a la gente cómo, incluso aunque  puedan obtener algo inmediato, no sería 
+tan satisfactorio el guardarlo y presumirlo como propio (no es su propia visión). pero no se quedó solo ahí, esto genera la posibilidad de tomar lo generado y darle una 
+transformación, darle una visión propia a algo meramente aleatorio, y creo que puede llegar a ser algo muy valioso en este 
 momento.
+
+¿Qué aprendiste realmente?
+
+Aprendí que a partir de algo generado tambien se puede hacer algo interesante, pero necesita una gran cantidad de trabajo y esfuerzo humano para realmente trascender lo 
+cotidiano
+
+¿Qué sentido tuvo tomarte el trabajo?
+
+tuvo sentido ya que me aseguró nuevamente que el trabajo, el esfuerzo y la satisfacción de hacer algo propio no se va a ningún lado.
+
+
+Proceso:
 
 empecé con la interacrtividad de la malla, se rompía al principio
 
@@ -40,3 +62,8 @@ Se agregó un selector de color más dedicado y se estableció un color de ui
 Limpieza de ui
 
 <img width="1868" height="915" alt="Captura de pantalla 2026-10-30 014253" src="https://github.com/user-attachments/assets/d5d84c7d-c7b0-4a7c-9ac1-23202848d2cb" />
+
+
+Autoevalución:
+
+5.0
